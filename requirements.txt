@@ -7,3 +7,4 @@ faiss-cpu
 langchain_chroma
 langchain_huggingface
 langchain_text_splitters
+langchain_groq
